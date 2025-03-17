@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 220809165,
+      "MCompany": "华胜",
+      "MDestination": "中岭",
+      "MQualityLevel": "A级",
+      "MTime": "20220809",
+      "MaterialId1": 1023,
+      "MaterialId2": 1025,
+      "wsName1": "湿法成网",
+      "wsStartTime1": "08090700",
+      "wsEndTime1": "08090734",
+      "wsName2": "射流喷网",
+      "wsStartTime2": "08090741",
+      "wsEndTime2": "08090823",
+      "wsName3": "功能性整理",
+      "wsStartTime3": "08090847",
+      "wsEndTime3": "08090902",
+      "InspectionStartTime": "08090937",
+      "InspectionEndTime": "08091004",
+      "InspectionResult": "合格",
+      "ResponsiblePerson": "张三"
+    },
+    {
+      "id": 220925100,
+      "MCompany": "华胜",
+      "MDestination": "中岭",
+      "MQualityLevel": "A级",
+      "MTime": "20220925",
+      "MaterialId1": 1023,
+      "MaterialId2": 1024,
+      "wsName1": "湿法成网",
+      "wsStartTime1": "09250700",
+      "wsEndTime1": "09250734",
+      "wsName2": "射流喷网",
+      "wsStartTime2": "09250741",
+      "wsEndTime2": "09250823",
+      "wsName3": "功能性整理",
+      "wsStartTime3": "09250847",
+      "wsEndTime3": "09250902",
+      "InspectionStartTime": "09250937",
+      "InspectionEndTime": "09251004",
+      "InspectionResult": "合格",
+      "ResponsiblePerson": "李强"
+    }
+
+  ]
+}

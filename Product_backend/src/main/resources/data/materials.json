@@ -1,0 +1,84 @@
+{"materials":
+  [
+    {
+      "id": 1023,
+      "title": "纤维",
+      "type": "聚乙烯纤维",
+      "supplier": "荣成",
+      "passRate": 99.7,
+      "goodRate": 93.2,
+      "qualityLevel": "B级",
+      "Inspector": "吴磊"
+    },
+    {
+      "id": 1024,
+      "title": "纤维",
+      "type": "聚酰胺纤维",
+      "supplier": "雅都",
+      "passRate": 99.6,
+      "goodRate": 95.3,
+      "qualityLevel": "B级",
+      "Inspector": "孙坚"
+    },
+    {
+      "id": 1025,
+      "title": "粘合剂",
+      "type": "丁苯乳胶",
+      "supplier": "雅都",
+      "passRate": 99.8,
+      "goodRate": 94.0,
+      "qualityLevel": "A级",
+      "Inspector": "赵恒"
+    },
+    {
+      "id": 1026,
+      "title": "粘合剂",
+      "type": "丁苯乳胶",
+      "supplier": "雅都",
+      "passRate": 99.8,
+      "goodRate": 94.0,
+      "qualityLevel": "A级",
+      "Inspector": "赵恒"
+    },
+    {
+      "id": 1027,
+      "title": "纤维",
+      "type": "丁苯乳胶",
+      "supplier": "雅都",
+      "passRate": 99.8,
+      "goodRate": 94.0,
+      "qualityLevel": "A级",
+      "Inspector": "赵恒"
+    },
+    {
+      "id": 1028,
+      "title": "纤维",
+      "type": "丁苯乳胶",
+      "supplier": "雅都",
+      "passRate": 99.8,
+      "goodRate": 94.0,
+      "qualityLevel": "A级",
+      "Inspector": "赵恒"
+    },
+    {
+      "id": 1029,
+      "title": "粘合剂",
+      "type": "丁苯乳胶",
+      "supplier": "雅都",
+      "passRate": 99.8,
+      "goodRate": 94.0,
+      "qualityLevel": "A级",
+      "Inspector": "赵恒"
+    },
+    {
+      "id": 1030,
+      "title": "纤维",
+      "type": "聚乙烯纤维",
+      "supplier": "雅都",
+      "passRate": 99.8,
+      "goodRate": 94.0,
+      "qualityLevel": "A级",
+      "Inspector": "刘华"
+    }
+  ]
+}
