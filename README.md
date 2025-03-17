@@ -1,7 +1,5 @@
-## Introduction 
-
-This is a simple toy project made with Matlab®. In 2024 I have done an interesting experiment with **How to find the location of a base station**. I have made some naive assumption about the actual scenario, thus, it will become easier to implenment the code
-
+## 无纺布溯源管理系统
+本项目为实现无纺布生产过程中进行溯源的条码管理系统。在本地部署Java后端之后，使用Android app即可开始使用
 ## Background
 
 Since the advent of 5G technology, China's mobile Internet has been rapidly developing, laying a solid foundation for the country's digital economy. From 4G to 5G technology, both transmission speed and latency have been greatly optimized. In order to further increase the coverage of the mobile Internet and improve the transmission quality of existing base stations, a large number of new mobile base stations have been built in 
