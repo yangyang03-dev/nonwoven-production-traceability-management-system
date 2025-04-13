@@ -1,3 +1,4 @@
+[中文](README.md)
 ## Nonwoven Production Traceability Management System
 This is a barcode-management-system project for traceability of nonwoven production. You can start to use an Android app after deploying Java backend on your local machine.
 ## Start
